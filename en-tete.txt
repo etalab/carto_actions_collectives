@@ -1,0 +1,6 @@
+<style>
+.leaflet-container .leaflet-control-attribution { display: none; }
+.leaflet-top, .leaflet-bottom { max-width: 350px;}
+</style>
+<span style='        position: fixed;        z-index: 999;        left: 0px;        background-image: url(https://fr.ogpsummit.org/app/uploads/2016/07/LOGO-POSITIF-PRINT-EN-HD-1.png);        height: 50px;        bottom: 8px;
+        width: 200px;        background-size: contain;        background-repeat:no-repeat;        background-position:center center;        text-indent: -9999999px;'>OGP summit</span>
